@@ -1,0 +1,3 @@
+This project is an implementation of an MMORPG Game characters' types(also known as Character Classes). The three characters classes are Archer, Trojan and Wizard. The idea is to have a parent character class for the different character types with the common attributes, and to add the specific attributes of each different character type in their own classes. I will use a Queue to present the different characters when implemented as they leveled up.
+
+Please note that I have added properties for all the classes' data members, however, I only used the magic str function for printing. The properities can be useful in future implementations.

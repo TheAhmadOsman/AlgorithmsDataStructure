@@ -1,0 +1,11 @@
+digraph "classes_myproject" {
+charset="utf-8"
+rankdir=BT
+"0" [label="{Archer|flying\lflying_interval\l|level_up()\l}", shape="record"];
+"1" [label="{Character|agility\lattack\ldefense\lhealth\llevel\lstamina\ltype\l|level_up()\l}", shape="record"];
+"2" [label="{Trojan|is_sane\lrunning_interval\l|level_up()\l}", shape="record"];
+"3" [label="{Wizard|is_evil\lmana\l|level_up()\l}", shape="record"];
+"0" -> "1" [arrowhead="empty", arrowtail="none"];
+"2" -> "1" [arrowhead="empty", arrowtail="none"];
+"3" -> "1" [arrowhead="empty", arrowtail="none"];
+}
