@@ -1,4 +1,4 @@
-# Algorithms and Data Structure - CS160 :snake:
+# :fire: Algorithms and Data Structure - CS160 :snake:
 
 Classes, Graphs, Hashing, Linked Lists, Maps, RPN, Recursion, Sorting, Queues, Stacks, Tree.
 
